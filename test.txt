@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B68C-39FB
+
+ Directory of C:\Users\USER\Desktop\devops project\git\MyProject
+
+07/29/2024  05:03 PM    <DIR>          .
+07/29/2024  05:03 PM    <DIR>          ..
+07/29/2024  05:03 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  36,305,891,328 bytes free
